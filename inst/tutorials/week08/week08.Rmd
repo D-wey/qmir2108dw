@@ -14,6 +14,7 @@ data(df_opposition)
 ```
 
 
+
 ## Introduction
 
 After you got to know `R` and the `tidyverse` in previous weeks, it's now time to run your first statistical model. Following this week's lab session, you continue wondering why opposition parties in European national parliaments vary in their conflict-seeking behavior. Luckily, we have the data from Tuttnauer (2018) which allows us to explore the behavior of parliamentary opposition parties in 16 EU member states.^[Tuttnauer, O. (2018) "If you can beat them, confront them: Party-level analysis of opposition behavior in European national parliaments". *European Union Politics*, 19(2), 278–298.] 
@@ -328,6 +329,10 @@ question_text(
   allow_retry = T
 )
 ```
+
+
+
+
 
 ## Submit
 
